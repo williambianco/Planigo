@@ -1,0 +1,19 @@
+{
+  "name": "planigo-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "axios": "^1.3.4",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0",
+    "@vitejs/plugin-vue": "^4.1.0"
+  }
+}
